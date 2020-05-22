@@ -12,7 +12,7 @@ It contains the different queries mentionned in the article:
 
 ## Directory "results"
 
-It contains the results presented in the paper in section 6. The files are named as follows "*\*_i_j.pdf*"" where *i* corresponds to the number of attributes involved in the query and *j* corresponds to the number of SA among the *i* attributes. 
+It contains the results presented in the paper in section 6 The files are named as "*\*_i_j.pdf*"" where *i* corresponds to the number of attributes involved in the query and *j* corresponds to the number of SA among the *i* attributes. 
 
 A "*\*_summary.pdf*" file is also provided in each sub-directory and presents the data that were used to produce the graphs in tabular form.
 * Directory "relative_error" corresponds to Figure 4
